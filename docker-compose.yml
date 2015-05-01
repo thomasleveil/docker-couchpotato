@@ -8,3 +8,5 @@ couchpotato:
   - config:/config
   - downloads:/downloads
   - movies:/movies
+  - /mnt/movies/FR:/movies/FR
+  - /mnt/movies/EN:/movies/EN
